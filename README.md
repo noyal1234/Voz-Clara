@@ -21,7 +21,7 @@ Voz-Clara enables users to **ask questions about their surroundings**, captured 
 
 ## 🧠  Model Architecture
 
-![Architecture](Picture1.png)
+![Architecture](Model Arch.png)
 
 ---
 
